@@ -8,10 +8,6 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=raghavpandey-01&style=for-the-badge&color=8B5CF6&label=PROFILE+VIEWS" alt="Profile Views">
-
-<br><br>
-
 <a href="https://github.com/raghavpandey-01"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> </a>
 
 <a href="https://www.linkedin.com/in/raghav-pandey-07bab235a/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
@@ -67,7 +63,7 @@ I enjoy taking an idea 💡 and turning it into a working project 🚀.
 
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=4" alt="AI ML">
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn">
 
@@ -95,7 +91,7 @@ I enjoy taking an idea 💡 and turning it into a working project 🚀.
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql&perline=4" alt="Web Development">
 
-<br><br>
+<br>
 
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
 
@@ -104,7 +100,8 @@ I enjoy taking an idea 💡 and turning it into a working project 🚀.
 ### ⚙️ Tools
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Tools">
-
+<img src="https://img.shields.io/badge/JupyterLab-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="JupyterLab">
+<img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white" alt="Google Colab">
 </div>
 
 ---
@@ -228,8 +225,6 @@ I enjoy taking an idea 💡 and turning it into a working project 🚀.
 <a href="https://www.linkedin.com/in/raghav-pandey-07bab235a/"> <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"> </a>
 
 </div>
-
-<br>
 
 <div align="center">
 
