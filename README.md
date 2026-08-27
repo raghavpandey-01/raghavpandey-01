@@ -152,7 +152,9 @@ I enjoy taking an idea 💡 and turning it into a working project 🚀.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/raghavpandey-01/raghavpandey-01/output/github-contribution-grid-snake.svg" width="95%" alt="GitHub Contribution Snake">
+<img src="https://raw.githubusercontent.com/raghavpandey-01/raghavpandey-01/gh-pages/github-contribution-grid-snake.svg"
+     width="95%"
+     alt="GitHub Contribution Snake">
 
 </div>
 
