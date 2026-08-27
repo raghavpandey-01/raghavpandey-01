@@ -1,0 +1,128 @@
+name: Generate Profile Statistics
+
+on:
+  schedule:
+    - cron: "30 0 * * *"
+
+  workflow_dispatch:
+
+  push:
+    paths:
+      - ".github/workflows/profile-stats.yml"
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      # --------------------------------------------------
+      # Checkout repository
+      # --------------------------------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # --------------------------------------------------
+      # Create profile directory
+      # --------------------------------------------------
+      - name: Create profile directory
+        run: mkdir -p profile
+
+      # --------------------------------------------------
+      # GitHub Stats
+      # --------------------------------------------------
+      - name: Generate GitHub Stats
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: >-
+            username=raghavpandey-01&
+            show_icons=true&
+            include_all_commits=true&
+            count_private=true&
+            hide_border=true&
+            bg_color=0D1117&
+            title_color=8B5CF6&
+            text_color=C9D1D9&
+            icon_color=8B5CF6&
+            ring_color=8B5CF6&
+            border_color=8B5CF6
+          path: profile/stats.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # --------------------------------------------------
+      # Top Languages
+      # --------------------------------------------------
+      - name: Generate Top Languages
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: >-
+            username=raghavpandey-01&
+            layout=compact&
+            langs_count=8&
+            hide_border=true&
+            bg_color=0D1117&
+            title_color=8B5CF6&
+            text_color=C9D1D9&
+            border_color=8B5CF6
+          path: profile/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # --------------------------------------------------
+      # GitHub Streak
+      # --------------------------------------------------
+      - name: Generate GitHub Streak
+        uses: DenverCoder1/github-readme-streak-stats@main
+        with:
+          options: >-
+            user=raghavpandey-01&
+            theme=dark&
+            hide_border=true&
+            background=0D1117&
+            border=8B5CF6&
+            stroke=8B5CF6&
+            ring=8B5CF6&
+            fire=8B5CF6&
+            currStreakNum=FFFFFF&
+            sideNums=FFFFFF&
+            currStreakLabel=8B5CF6&
+            sideLabels=C9D1D9&
+            dates=C9D1D9&
+            timezone=Asia/Kolkata&
+            disable_animations=true
+          path: profile/streak.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # --------------------------------------------------
+      # GitHub Profile Trophy
+      # --------------------------------------------------
+      - name: Generate GitHub Trophies
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: >-
+            username=raghavpandey-01&
+            theme=darkhub&
+            column=6&
+            margin-w=10&
+            margin-h=10&
+            no-bg=true&
+            no-frame=true
+          path: profile/trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      # --------------------------------------------------
+      # Commit generated SVG files
+      # --------------------------------------------------
+      - name: Commit generated profile cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+          git add profile/*.svg
+
+          git diff --cached --quiet || git commit -m "Update GitHub profile statistics"
+
+          git push
