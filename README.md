@@ -4,7 +4,7 @@
 
 ### 🤖 AI/ML Developer • 💻 Full Stack Developer • 🚀 Problem Solver
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI%2FML+Developer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Python+%7C+Java+%7C+JavaScript;Computer+Vision+%F0%9F%91%81%EF%B8%8F;Building+Something+Awesome+%F0%9F%9A%80" alt="Typing SVG">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=700&lines=AI%2FML+Developer+%F0%9F%A4%96;Full+Stack+Developer+%F0%9F%92%BB;Python+%7C+Java+%7C+C%2B%2B+%7C+JavaScript;Computer+Vision+%F0%9F%91%81%EF%B8%8F;Building+Something+Awesome+%F0%9F%9A%80" alt="Typing SVG">
 
 <br>
 
@@ -20,11 +20,12 @@ I'm a developer passionate about **Artificial Intelligence, Machine Learning, Co
 
 I enjoy taking an idea 💡 and turning it into a working project 🚀.
 
-- 🤖 AI / Machine Learning
+- 🤖 Artificial Intelligence & Machine Learning
 - 🧠 Deep Learning
 - 👁️ Computer Vision
 - 🌐 Full Stack Development
 - 💻 Data Structures & Algorithms
+- 📊 Data Analysis & Visualization
 - 🚀 Building real-world projects
 - 📚 Always learning something new
 
@@ -34,21 +35,30 @@ I enjoy taking an idea 💡 and turning it into a working project 🚀.
 
 <div align="center">
 
-### 💻 Languages
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,javascript,html,css&perline=5" alt="Languages">
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css&perline=6" alt="Programming Languages">
 
 <br><br>
 
-### 🤖 AI / ML
+### 🤖 AI / Machine Learning
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=5" alt="AI ML">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow&perline=4" alt="AI ML">
 
 <br><br>
 
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit Learn">
 <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face">
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain">
+
+<br><br>
+
+### 📊 Data Science
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn">
 
 <br><br>
 
@@ -62,9 +72,15 @@ I enjoy taking an idea 💡 and turning it into a working project 🚀.
 
 <br><br>
 
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=2" alt="Databases">
+
+<br><br>
+
 ### ⚙️ Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4" alt="Tools">
+<img src="https://skillicons.dev/icons?i=git,github,vscode&perline=3" alt="Tools">
 
 </div>
 
@@ -95,17 +111,25 @@ I enjoy taking an idea 💡 and turning it into a working project 🚀.
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Statistics
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=raghavpandey-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavpandey-01&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+<img src="https://github-readme-stats.vercel.app/api?username=raghavpandey-01&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats">
 
 <br><br>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=raghavpandey-01&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavpandey-01&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages">
+
+</div>
+
+---
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=raghavpandey-01&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
 </div>
 
