@@ -129,7 +129,7 @@ I enjoy taking an idea 💡 and turning it into a working project 🚀.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=raghavpandey-01&theme=tokyonight&hide_border=true" alt="GitHub Streak">
+<img src="https://streak-stats.demolab.com/?user=raghavpandey-01&theme=tokyonight&hide_border=true" alt="GitHub Streak">
 
 </div>
 
