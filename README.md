@@ -133,18 +133,32 @@ I enjoy taking an idea 💡 and turning it into a working project 🚀.
 </div>
 
 ---
-
-# 📊 GitHub Activity
+# 📊 GitHub Statistics
 
 <div align="center">
 
-### 🔥 My Contributions
+### 📈 GitHub Stats
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=raghavpandey-01&theme=tokyo-night&hide_border=true&area=true" width="95%" alt="GitHub Contribution Graph">
+<img src="./profile/stats.svg" width="48%" alt="GitHub Stats">
+<img src="./profile/top-langs.svg" width="48%" alt="Top Languages">
+
+<br><br>
+
+### 🔥 Contribution Streak
+
+<img src="./profile/streak.svg" width="70%" alt="GitHub Contribution Streak">
 
 </div>
 
-> 💡 **Your normal GitHub contribution calendar is also displayed automatically by GitHub below your profile README.**
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+<img src="./profile/trophy.svg" width="95%" alt="GitHub Trophies">
+
+</div>
 
 ---
 
